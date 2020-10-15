@@ -1,0 +1,10 @@
+name = input('What is your name? ')
+print('Hi ' + name)
+colour = input('What is your favourite colour? ')
+print(name + ' likes ' + colour)
+birth_year = input('What is your birth year? ')
+age = 2019 - int(birth_year)
+print('Your age is ' + str(age))
+weight_kg = input('What is your weight? (in kg) ')
+weight_lbs = int(weight_kg) * 2.205
+print('Your weight in pounds is: ' + str(weight_lbs) + ' lbs')

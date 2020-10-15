@@ -1,0 +1,2 @@
+# Escreva um código que solicite um valor inteiro ao usuário e exiba uma mensagem indicando se esse inteiro é par ou
+# ímpar (obs: talvez você se interesse pelo operador módulo, denotado pelo símbolo %).
